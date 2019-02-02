@@ -1,0 +1,12 @@
+/* components/uuid/index.wxss */
+.canvas_wrapper {
+  width: 0px;
+  height: 0px;
+  position: relative;
+}
+
+.canvas_uuid {
+  position: absolute;
+  left: -300px;
+  top: -150px;
+}

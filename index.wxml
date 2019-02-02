@@ -1,0 +1,4 @@
+<!--components/uuid/index.wxml-->
+<view class="canvas_wrapper">
+  <canvas canvas-id="canvas_uuid" class="canvas_uuid"></canvas>
+</view>
